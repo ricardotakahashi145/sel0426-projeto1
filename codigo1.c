@@ -12,6 +12,7 @@ int main(){
 	printf("teste do commit");
 	printf("%f", multiply(2,3));
 	
+	%comentário para ver no commit! 
 	
 	return 0;
 }
